@@ -78,7 +78,62 @@ With 14+ years of experience across product and engineering, I specialize in des
 
 ## 🏗️ Platform Thinking (How I Build Systems)
 
-```text
 Customer → CRM → Billing Engine → Invoice Generation
         → Payment Orchestration → Gateway/Processor
         → Ledger → Reconciliation → ERP (NetSuite)
+
+        ## 📐 Design Principles
+
+- API-first and modular architecture  
+- Strong data contracts for billing and financial accuracy  
+- Scalable for high-volume invoicing and transactions  
+- Built for compliance, auditability, and global expansion  
+
+---
+
+## ⚙️ Tools & Technologies
+
+### Billing & Payments Platforms
+- Zuora  
+- Chargebee  
+- Stripe  
+
+### ERP & Financial Systems
+- NetSuite  
+
+### CRM & Upstream Systems
+- Salesforce  
+
+### Integrations & Middleware
+- REST APIs  
+- Webhooks  
+- Middleware platforms (Boomi)  
+
+### Architecture & Concepts
+- Quote-to-Cash (Q2C)  
+- Order-to-Cash (O2C)  
+- Distributed systems  
+- Event-driven architecture  
+- Data integrity and reconciliation  
+- High availability and fault tolerance  
+
+---
+
+## 🌍 Areas of Interest
+
+- Global payments infrastructure at scale  
+- Billing and invoicing platform design  
+- Payment orchestration and routing optimization  
+- Revenue systems and financial automation  
+- Fraud detection and machine learning in payments  
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn:https://www.linkedin.com/in/salin-joseph-b7a34334/
+---
+
+## ⚡ Fun Fact
+
+I started my career as a software engineer and transitioned into product management — enabling me to go deep on APIs, billing systems, and financial architecture while driving business outcomes at scale.
