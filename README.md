@@ -67,4 +67,4 @@ I specialize in building and scaling **payments, billing, and financial infrastr
 
 ## 📫 Connect with Me
 
-- LinkedIn: [Add your link]
+- LinkedIn: https://www.linkedin.com/in/salin-joseph-b7a34334/
